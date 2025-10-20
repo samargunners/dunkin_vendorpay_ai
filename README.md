@@ -110,6 +110,3 @@ Once running, visit:
 - Document all API endpoints
 - Use async/await for database operations
 
-## License
-
-Internal Use - Dunkin' Brands Inc.
