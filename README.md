@@ -1,10 +1,10 @@
-# VendorPay AI - Phase 1
+# Dunkin VendorPay AI - Phase 1
 
-A comprehensive AI-powered vendor payment processing and management system.
+A comprehensive AI-powered vendor payment processing and management system for Dunkin operations.
 
 ## Project Overview
 
-VendorPay AI is an intelligent system designed to streamline vendor payment processes using artificial intelligence for document processing, payment prediction, and vendor matching.
+Dunkin VendorPay AI is an intelligent system designed to streamline vendor payment processes using artificial intelligence for document processing, payment prediction, and vendor matching.
 
 ## Phase 1 Features
 
