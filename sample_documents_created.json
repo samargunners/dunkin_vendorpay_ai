@@ -1,0 +1,12 @@
+{
+  "created_at": "2025-10-20T10:29:54.472491",
+  "total_files": 5,
+  "files": [
+    "data/uploads/vendor_invoices/sample_invoice_abc_coffee_20240115.txt",
+    "data/uploads/bank_statements/sample_statement_202401.csv",
+    "data/uploads/checks/sample_check_1234.json",
+    "data/uploads/sales_reports/daily_sales_20240118.txt",
+    "data/uploads/handwritten_notes/manager_notes_20240115.txt"
+  ],
+  "note": "Sample documents for testing VendorPay AI upload and processing functionality"
+}

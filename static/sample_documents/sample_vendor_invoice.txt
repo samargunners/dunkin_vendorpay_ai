@@ -1,0 +1,38 @@
+INVOICE
+
+SYSCO Corporation
+12345 Industrial Blvd
+Houston, TX 77099
+Phone: (713) 555-0123
+
+BILL TO:
+Dunkin' Donuts Franchise #12345
+987 Main Street
+Your City, State 12345
+
+Invoice Number: INV-2024-001567
+Invoice Date: September 15, 2024
+Due Date: October 15, 2024
+Terms: Net 30
+
+DESCRIPTION                    QTY    UNIT PRICE    TOTAL
+Ground Beef 80/20 - 10 lb      25     $32.50       $812.50
+Hamburger Buns - Case          10     $18.75       $187.50
+French Fries Frozen - 6 lb     20     $12.45       $249.00
+Chicken Strips - 5 lb          15     $28.90       $433.50
+Cooking Oil - 35 lb            4      $45.60       $182.40
+Paper Napkins - Case           8      $24.75       $198.00
+Coffee Cups - 1000 ct          5      $34.20       $171.00
+Cleaning Supplies - Kit        3      $67.80       $203.40
+
+                              SUBTOTAL:           $2,437.30
+                              TAX (8.25%):        $201.08
+                              TOTAL:              $2,638.38
+
+Payment Terms: Net 30 Days
+Please remit payment to:
+SYSCO Corporation
+P.O. Box 98765
+Houston, TX 77099
+
+Thank you for your business!

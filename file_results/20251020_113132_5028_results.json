@@ -1,0 +1,39 @@
+{
+  "file_id": "20251020_113132_5028",
+  "original_name": "sample_invoice_abc_coffee_20240115.txt",
+  "processed_at": "2025-10-20T11:31:32.136579",
+  "document_type": "invoice",
+  "confidence": 100.0,
+  "extracted_fields": {
+    "invoice_number": "Invoice",
+    "vendor_name": "ABC Coffee Supplies Inc.",
+    "due_date": "February 14, 2024",
+    "total_amount": "955.00"
+  },
+  "financial_data": {
+    "amounts_found": [
+      "$8.50",
+      "$425.00",
+      "$9.00",
+      "$270.00",
+      "$0.15",
+      "$150.00",
+      "$0.20",
+      "$100.00",
+      "$0.05",
+      "$10.00",
+      "$955.00",
+      "$59.69",
+      "$1,014.69"
+    ],
+    "total_amounts": "13",
+    "main_total": "$1,014.69",
+    "dates_found": [
+      "January 15, 2024",
+      "February 14, 2024"
+    ]
+  },
+  "text_preview": "\nVENDOR INVOICE\n\nInvoice #: INV-2024-001\nDate: January 15, 2024\nDue Date: February 14, 2024\n\nBill To:\nDunkin' Donuts Franchise\n123 Main Street\nBoston, MA 02101\n\nFrom:\nABC Coffee Supplies Inc.\n456 Supply Avenue\nCambridge, MA 02139\nPhone: (617) 555-0123\nEmail: billing@abccoffee.com\n\nDescription       ...",
+  "processing_status": "success",
+  "processed_path": "file_processed\\invoices\\20251020_113132_5028_sample_invoice_abc_coffee_20240115.txt"
+}

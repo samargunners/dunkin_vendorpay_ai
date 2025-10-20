@@ -1,0 +1,29 @@
+
+DAILY SALES REPORT
+Location: Dunkin' Donuts - Main Street
+Date: January 18, 2024
+
+ITEM SALES:
+Coffee (Hot) - Medium        89 units    @$2.49    $221.61
+Coffee (Hot) - Large         67 units    @$2.79    $186.93
+Coffee (Iced) - Medium       45 units    @$2.69    $121.05
+Donuts - Glazed              156 units   @$1.29    $201.24
+Donuts - Boston Cream        34 units    @$1.49     $50.66
+Muffins - Blueberry          23 units    @$2.99     $68.77
+Bagels - Everything          78 units    @$1.99    $155.22
+Breakfast Sandwiches         92 units    @$4.99    $459.08
+
+PAYMENT METHODS:
+Cash:                        $387.45
+Credit Card:                 $1,156.23
+Debit Card:                  $332.88
+Total:                       $1,876.56
+
+STAFF:
+Manager: Sarah Johnson
+Cashiers: Mike Chen, Lisa Rodriguez
+Kitchen: David Kim
+
+Daily Deposits: $1,876.56
+Cash Register Balance: $387.45
+Credit Card Processing: $1,489.11

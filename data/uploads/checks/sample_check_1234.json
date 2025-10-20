@@ -1,0 +1,10 @@
+{
+  "check_number": "1234",
+  "date": "2024-01-15",
+  "pay_to": "ABC Coffee Supplies Inc.",
+  "amount": 1014.69,
+  "amount_text": "One thousand fourteen and 69/100 dollars",
+  "memo": "Invoice INV-2024-001",
+  "account_number": "****-1234",
+  "routing_number": "011000015"
+}

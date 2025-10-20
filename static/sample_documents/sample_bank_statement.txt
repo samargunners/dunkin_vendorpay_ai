@@ -1,0 +1,49 @@
+"""
+Sample bank statement data for testing
+This represents a typical small business bank statement
+"""
+
+BUSINESS_NAME: Dunkin' Donuts Franchise #12345
+ACCOUNT: Business Checking ****1234
+STATEMENT PERIOD: September 1, 2024 - September 30, 2024
+
+BEGINNING BALANCE: $8,234.56
+
+DEPOSITS AND CREDITS:
+09/01/2024    DAILY SALES DEPOSIT           $1,567.89
+09/02/2024    DAILY SALES DEPOSIT           $1,234.56
+09/03/2024    DAILY SALES DEPOSIT           $1,456.78
+09/04/2024    DAILY SALES DEPOSIT           $1,678.90
+09/05/2024    DAILY SALES DEPOSIT           $1,345.67
+09/06/2024    DAILY SALES DEPOSIT           $1,789.01
+09/07/2024    DAILY SALES DEPOSIT           $1,890.12
+
+TOTAL DEPOSITS: $10,962.93
+
+CHECKS AND DEBITS:
+09/02/2024    CHECK #1001 - SYSCO FOODS     -$2,345.67
+09/03/2024    ONLINE PMT - ELECTRICITY      -$456.78
+09/05/2024    CHECK #1002 - DUNKIN' ROYALTY -$1,234.56
+09/08/2024    ACH DEBIT - PAYROLL           -$3,456.78
+09/10/2024    CHECK #1003 - PEPSI COLA      -$567.89
+09/12/2024    ONLINE PMT - RENT             -$2,800.00
+09/15/2024    CHECK #1004 - CLEANING SUPPLY -$234.56
+09/18/2024    ACH DEBIT - INSURANCE         -$456.78
+09/20/2024    CHECK #1005 - MAINTENANCE     -$345.67
+09/25/2024    ONLINE PMT - INTERNET         -$89.99
+
+TOTAL DEBITS: -$12,988.68
+
+ENDING BALANCE: $6,208.81
+
+FEES AND CHARGES:
+Monthly maintenance fee: $25.00
+Overdraft fees: $0.00
+Wire transfer fees: $0.00
+
+ACCOUNT SUMMARY:
+Previous balance: $8,234.56
+Total deposits: $10,962.93
+Total withdrawals: $12,988.68
+Fees: $25.00
+New balance: $6,208.81

@@ -1,0 +1,19 @@
+{
+  "setup_timestamp": "2025-10-20T10:15:54.467460",
+  "directories_created": true,
+  "sample_documents": true,
+  "configuration": true,
+  "readme_files": true,
+  "next_steps": [
+    "Install OCR dependencies (Tesseract)",
+    "Start FastAPI server",
+    "Test document upload via API",
+    "Upload sample documents for testing"
+  ],
+  "api_endpoints": [
+    "POST /api/v1/documents/upload - Upload documents",
+    "GET /api/v1/documents - List uploaded documents",
+    "GET /api/v1/documents/{id} - Get document details",
+    "POST /api/v1/documents/{id}/process - Process document"
+  ]
+}

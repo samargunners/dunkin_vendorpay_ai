@@ -1,0 +1,26 @@
+{
+  "account_number": "****1234",
+  "statement_period": "2024-09-01 to 2024-09-30",
+  "opening_balance": 5234.56,
+  "closing_balance": 4876.23,
+  "transactions": [
+    {
+      "date": "2024-09-02",
+      "description": "SYSCO FOOD DELIVERY",
+      "amount": -423.67,
+      "type": "debit"
+    },
+    {
+      "date": "2024-09-03",
+      "description": "DAILY SALES DEPOSIT",
+      "amount": 1256.78,
+      "type": "credit"
+    },
+    {
+      "date": "2024-09-05",
+      "description": "PEPSI COLA DELIVERY",
+      "amount": -189.45,
+      "type": "debit"
+    }
+  ]
+}

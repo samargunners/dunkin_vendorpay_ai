@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run VendorPay AI Dev Server",
+			"type": "shell",
+			"command": "cmd /c \"venv\\Scripts\\activate && uvicorn src.api.main:app --reload --host 0.0.0.0 --port 8000\"",
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}

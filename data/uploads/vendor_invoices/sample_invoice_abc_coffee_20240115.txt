@@ -1,0 +1,34 @@
+
+VENDOR INVOICE
+
+Invoice #: INV-2024-001
+Date: January 15, 2024
+Due Date: February 14, 2024
+
+Bill To:
+Dunkin' Donuts Franchise
+123 Main Street
+Boston, MA 02101
+
+From:
+ABC Coffee Supplies Inc.
+456 Supply Avenue
+Cambridge, MA 02139
+Phone: (617) 555-0123
+Email: billing@abccoffee.com
+
+Description                    Qty    Unit Price    Total
+Coffee Beans - Colombian       50 lbs    $8.50     $425.00
+Coffee Beans - French Roast    30 lbs    $9.00     $270.00
+Paper Cups - 12oz            1000 pcs    $0.15     $150.00
+Paper Cups - 16oz             500 pcs    $0.20     $100.00
+Coffee Filters - Size 4       200 pcs    $0.05      $10.00
+
+                               Subtotal:           $955.00
+                               Tax (6.25%):         $59.69
+                               Total:            $1,014.69
+
+Payment Terms: Net 30
+Payment Method: Check or ACH Transfer
+
+Thank you for your business!

@@ -1,0 +1,27 @@
+{
+  "vendor": "SYSCO Corporation",
+  "invoice_number": "INV-2024-001234",
+  "date": "2024-09-15",
+  "due_date": "2024-10-15",
+  "total_amount": 1234.56,
+  "line_items": [
+    {
+      "description": "Ground Beef 80/20",
+      "quantity": 50,
+      "unit_price": 6.99,
+      "total": 349.5
+    },
+    {
+      "description": "Hamburger Buns",
+      "quantity": 100,
+      "unit_price": 0.35,
+      "total": 35.0
+    },
+    {
+      "description": "French Fries Frozen",
+      "quantity": 20,
+      "unit_price": 12.45,
+      "total": 249.0
+    }
+  ]
+}

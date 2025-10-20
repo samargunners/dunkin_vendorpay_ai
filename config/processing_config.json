@@ -1,0 +1,64 @@
+{
+  "document_processing": {
+    "max_file_size_mb": 50,
+    "allowed_extensions": [
+      ".pdf",
+      ".jpg",
+      ".jpeg",
+      ".png",
+      ".tiff",
+      ".csv",
+      ".xlsx"
+    ],
+    "ocr_settings": {
+      "tesseract_config": "--oem 3 --psm 6",
+      "confidence_threshold": 0.7,
+      "preprocessing": {
+        "resize": true,
+        "denoise": true,
+        "contrast_enhancement": true
+      }
+    },
+    "pdf_settings": {
+      "extract_text_first": true,
+      "fallback_to_ocr": true,
+      "split_pages": true
+    }
+  },
+  "file_naming": {
+    "pattern": "{doc_type}_{source}_{date}_{uuid}",
+    "date_format": "%Y%m%d_%H%M%S",
+    "uuid_length": 8
+  },
+  "processing_rules": {
+    "bank_statements": {
+      "required_fields": [
+        "date",
+        "description",
+        "amount"
+      ],
+      "date_formats": [
+        "%m/%d/%Y",
+        "%Y-%m-%d",
+        "%d/%m/%Y"
+      ],
+      "amount_patterns": [
+        "\\$?[\\d,]+\\.\\d{2}",
+        "[\\d,]+\\.\\d{2}"
+      ]
+    },
+    "invoices": {
+      "required_fields": [
+        "vendor",
+        "invoice_number",
+        "date",
+        "total"
+      ],
+      "vendor_extraction_patterns": [
+        "Bill To:\\s*(.+)",
+        "Vendor:\\s*(.+)",
+        "From:\\s*(.+)"
+      ]
+    }
+  }
+}
